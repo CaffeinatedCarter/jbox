@@ -1,4 +1,5 @@
-# Jbox: 
+# Jbox
+
 ## Privacy policy
 Jbox is a media client for Jellyfin that runs on Xbox. We respect your privacy and are committed to protecting your personal information.
 
